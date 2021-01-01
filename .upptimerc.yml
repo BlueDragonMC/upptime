@@ -9,7 +9,7 @@ sites:
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /status
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ""
   introTitle: "BlueDragon Server Status"
