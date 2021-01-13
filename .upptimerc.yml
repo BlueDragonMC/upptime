@@ -16,7 +16,9 @@ status-website:
   introMessage: ""
   navbar:
     - title: Status
-      href: /
+      href: /upptime
+    - title: Website
+      href: https://bluedragonmc.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
